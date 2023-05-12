@@ -6,7 +6,7 @@
             "type": "income",
             "category": "Venda",
             "price": 14000,
-            "createdAt": "2023-05-11T19:59:28.512Z"
+            "createdAt": "2023-05-12T15:10:31.400Z"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "type": "outcome",
             "category": "Alimentação",
             "price": 50,
-            "createdAt": "2023-05-11T19:59:30:28.512Z"
+            "createdAt": "2023-05-12T14:12:31.400Z"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "type": "outcome",
             "category": "Educação",
             "price": 1980,
-            "createdAt": "2023-05-12T19:59:30:28.512Z"
+            "createdAt": "2023-05-10T15:12:31.400Z"
         }
     ]
 }
